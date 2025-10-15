@@ -1,0 +1,15 @@
+/workspaces/Module8Lab/Mod8/bin/Debug/net8.0/Mod8
+/workspaces/Module8Lab/Mod8/bin/Debug/net8.0/Mod8.deps.json
+/workspaces/Module8Lab/Mod8/bin/Debug/net8.0/Mod8.runtimeconfig.json
+/workspaces/Module8Lab/Mod8/bin/Debug/net8.0/Mod8.dll
+/workspaces/Module8Lab/Mod8/bin/Debug/net8.0/Mod8.pdb
+/workspaces/Module8Lab/Mod8/obj/Debug/net8.0/Mod8.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module8Lab/Mod8/obj/Debug/net8.0/Mod8.AssemblyInfoInputs.cache
+/workspaces/Module8Lab/Mod8/obj/Debug/net8.0/Mod8.AssemblyInfo.cs
+/workspaces/Module8Lab/Mod8/obj/Debug/net8.0/Mod8.csproj.CoreCompileInputs.cache
+/workspaces/Module8Lab/Mod8/obj/Debug/net8.0/Mod8.sourcelink.json
+/workspaces/Module8Lab/Mod8/obj/Debug/net8.0/Mod8.dll
+/workspaces/Module8Lab/Mod8/obj/Debug/net8.0/refint/Mod8.dll
+/workspaces/Module8Lab/Mod8/obj/Debug/net8.0/Mod8.pdb
+/workspaces/Module8Lab/Mod8/obj/Debug/net8.0/Mod8.genruntimeconfig.cache
+/workspaces/Module8Lab/Mod8/obj/Debug/net8.0/ref/Mod8.dll
